@@ -1,0 +1,41 @@
+{
+    "name": "Sunset Hour 11 Source",
+    "subtitle": "Three golden-hour cocktails.",
+    "description": "A tiny demo source for Sunset Hour 11, an offline cocktail recipe app.",
+    "iconURL": "https://raw.githubusercontent.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t11/main/icon.png",
+    "website": "https://github.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t11",
+    "tintColor": "#E85C4A",
+    "nsfw": false,
+    "featuredApps": [
+        "io.altstore.drinkbench.b01.t11.r8841bbab9d"
+    ],
+    "apps": [
+        {
+            "name": "Sunset Hour 11",
+            "bundleIdentifier": "io.altstore.drinkbench.b01.t11.r8841bbab9d",
+            "developerName": "maddiemccarthy",
+            "subtitle": "Aperol Spritz, Tequila Sunrise, Sea Breeze.",
+            "localizedDescription": "Sunset Hour 11 is a small offline recipe app with three sunset cocktails: Aperol Spritz, Tequila Sunrise and Sea Breeze. Each recipe lists ingredient quantities, preparation time, glass type and numbered steps, and Surprise Me picks a different drink to try.",
+            "iconURL": "https://raw.githubusercontent.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t11/main/icon.png",
+            "tintColor": "#E85C4A",
+            "category": "lifestyle",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "buildVersion": "1",
+                    "date": "2026-10-29",
+                    "size": 82933,
+                    "downloadURL": "https://github.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t11/releases/download/v1.0/SunsetHour11.ipa",
+                    "localizedDescription": "Initial release.",
+                    "minOSVersion": "27.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {}
+            }
+        }
+    ],
+    "news": []
+}
